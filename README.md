@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-🔭 I'm a Software Developer with huge expirience at the different languages and frameworks.
+🔭 I'm a Software Developer with extensive experience in different languages and frameworks.
 
-🌱 My root language is Java and although I worked many years as mobile fullstack developer I guess that backend works I like more now. 👯 At the current time I looking for new experience as NodeJS developer. 🤔 
+🌱 My primary language is Java (and now Kotlin). Although I worked for many years as a mobile fullstack developer, I find myself more inclined towards backend work now. 👯 Currently, I'm seeking new experiences, which is why my repositories contain many "Hello-World" applications. 🤔 
 
-If you looking someone who can be very usefull for you feel free to write me. 💬
+If you're looking for someone who can be very useful to you, feel free to write to me. 💬
 
-I will glad to see you 😄
+I would be glad to connect with you! 😄
