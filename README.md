@@ -1,12 +1,3 @@
-Hey there! 👋
-
-I’m a Kotlin Multiplatform enthusiast with 10+ years of coding adventures behind me 🧑‍💻 From Android & iOS apps to backend systems in the cloud — I love building things that just work (and look good doing it).
-
-I work mostly with Kotlin, Swift, Node.js, and AWS ☁️ Add some Compose, KTOR, Room, SQLDelight, Firebase, Koin, SwiftUI, Jetpack, Coroutines, Flow, Decompose, Gradle, Docker, PostgreSQL, GitHub Actions, Terraform, Fastlane, and a bit of magic ✨ — and you’ve got a solid cross-platform toolkit!
-
-I’m always curious about new tech 🔧 and love teaming up with awesome people to create meaningful products 🚀
-Let’s connect and make something cool together! 😄
-
 # Hey there! 👋
 
 I’m a Kotlin Multiplatform enthusiast with 10+ years of coding adventures behind me 🧑‍💻  
